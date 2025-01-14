@@ -1,0 +1,35 @@
+.creation{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.info{
+    color: var(--Soft-Blue, #8BACD9);
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Creator_name{
+    color: var(--White, #FFF);
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.Creator_name:hover{
+    color: var(--Cyan, #00FFF8);
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: 0.4s;
+}

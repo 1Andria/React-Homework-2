@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  background: var(--very-dark-blue-main-bg, #0D192C);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

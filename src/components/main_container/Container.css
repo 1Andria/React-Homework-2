@@ -35,9 +35,7 @@
     top:127px;
     opacity: 0;
 }
-.eye:hover{
-    opacity: 1;
-}
+
 .name:hover{
     color: var(--Cyan, #00FFF8);
     cursor: pointer;

@@ -2,7 +2,7 @@ import React from "react";
 import "./Container.css";
 import Photo from "../../assets/images/photo.png";
 import Days from "../days/Amount";
-import Creator from "../created/creation";
+import Creator from "../created/Creation";
 import Eye from "../../assets/images/Eye.svg";
 
 function Main() {
